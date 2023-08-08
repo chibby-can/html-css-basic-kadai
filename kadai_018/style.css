@@ -15,7 +15,7 @@
   width:800px;
   height:800px;
   background-color: #ffd9df;
-  margin: 20px 　auto;
+  margin: 20px auto;
   text-align: center;
 }
 
@@ -53,7 +53,7 @@
   width:800px;
   height:300px;
   background-color: #87ceeb;
-  margin: auto;
+  margin: 20px auto;
   text-align: center;
 }
 #bottom-child01{
@@ -81,5 +81,3 @@
   background-color:#e5dcf0 ;
   text-align: center;
 }
-
-
